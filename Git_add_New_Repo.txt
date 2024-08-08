@@ -44,7 +44,7 @@
    44  git status
    45  git log
    46  git push
-   47  git push -u origin main
+   47  gitfe
    48  git  clone https://github.com/gauravubnare/dockerfile.git
    49  ls
    50  cd dockerfile/
